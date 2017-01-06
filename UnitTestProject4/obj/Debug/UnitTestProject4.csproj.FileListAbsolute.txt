@@ -1,0 +1,12 @@
+c:\users\almaz\documents\visual studio 2015\Projects\UnitTestProject4\UnitTestProject4\bin\Debug\UnitTestProject4.dll
+c:\users\almaz\documents\visual studio 2015\Projects\UnitTestProject4\UnitTestProject4\bin\Debug\UnitTestProject4.pdb
+c:\users\almaz\documents\visual studio 2015\Projects\UnitTestProject4\UnitTestProject4\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\almaz\documents\visual studio 2015\Projects\UnitTestProject4\UnitTestProject4\obj\Debug\UnitTestProject4.dll
+c:\users\almaz\documents\visual studio 2015\Projects\UnitTestProject4\UnitTestProject4\obj\Debug\UnitTestProject4.pdb
+c:\users\almaz\documents\visual studio 2015\Projects\UnitTestProject4\UnitTestProject4\bin\Debug\nunit.framework.dll
+c:\users\almaz\documents\visual studio 2015\Projects\UnitTestProject4\UnitTestProject4\bin\Debug\WebDriver.dll
+c:\users\almaz\documents\visual studio 2015\Projects\UnitTestProject4\UnitTestProject4\bin\Debug\WebDriver.Support.dll
+c:\users\almaz\documents\visual studio 2015\Projects\UnitTestProject4\UnitTestProject4\bin\Debug\nunit.framework.xml
+c:\users\almaz\documents\visual studio 2015\Projects\UnitTestProject4\UnitTestProject4\bin\Debug\WebDriver.xml
+c:\users\almaz\documents\visual studio 2015\Projects\UnitTestProject4\UnitTestProject4\bin\Debug\WebDriver.Support.xml
+c:\users\almaz\documents\visual studio 2015\Projects\UnitTestProject4\UnitTestProject4\obj\Debug\UnitTestProject4.csprojResolveAssemblyReference.cache
